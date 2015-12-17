@@ -76,9 +76,6 @@ int main(int argn, char* argv[]){
 		
 	}
 	
-	input_path+="/";
-	output_path+="/";
-
 	cout << "Input path succesfully delivered: " << input_path << endl;
 	cout << "Output path succesfully delivered: " << output_path << endl;
 	
