@@ -60,20 +60,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-# Old; remove later
-Khmelev, D.V., &amp; Teahan, W.J. (2003). A repetition based measure for verification of text collections and for text categorization. In Proceedings of the 26th ACM SIGIR, (pp. 104–110).
-
-How to get the Code to work:
-
-You only have to compile "khemelev03.cpp", it includes all the other .cpp files.
-
-How to start the program:
-
-The program needs the corpora in the format of the "PAN"-comptetition.
-
-To get it running, you have to start it via command prompt with the parameters -i path/to/training/corpus -o path/to/output/directory.
-
-The algorithm has been improved, so it will give the answer "candidate00000", if the real author can't clearly be determined.
