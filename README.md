@@ -2,7 +2,7 @@
 
 This is a reimplementation of the approach to authorship attribution originally described in
 
-> D.V. Khmelev and W.J. Teahan. [A repetition based measure for verification of text collections and for text categorization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.531&rep=rep1&type=pdf). In Proc. of SIGIR, pp. 104-110, 2003 [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.531&rep=rep1&type=pdf)]
+> Dmitry V. Khmelev and William J. Teahan. [A repetition based measure for verification of text collections and for text categorization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.531&rep=rep1&type=pdf). In Proc. of SIGIR, pp. 104-110, 2003 [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.531&rep=rep1&type=pdf)]
 
 It was reimplemented as part of a science reproducibility study alongside [14 other authorship attribution approaches](https://github.com/search?q="Who+wrote+the+web"+user:pan-webis-de). The results of the reproducibility study can be found in
 
