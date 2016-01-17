@@ -12,9 +12,9 @@ If you use this reimplementation in your own research, please make sure to cite 
 
 ## Usage
 
-To execute the software, install it and make sure all its dependencies are installed as well; then run the software using the following command:
-
 `khmelev03 -i <path-to-input-data> -o <output-path>`
+
+To execute the software, install it and make sure all its dependencies are installed as well; then run the software using the following command:
 
 ## Input and Output Formats
 
