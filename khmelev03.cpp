@@ -418,5 +418,5 @@ void processAnswers(answerList* llist, string output_path)
 
     root.Add("answers", answers);
 
-    Jzon::FileWriter::WriteFile((output_path+"results.json"), root, Jzon::StandardFormat);
+    Jzon::FileWriter::WriteFile((output_path+"answers.json"), root, Jzon::StandardFormat);
 }
