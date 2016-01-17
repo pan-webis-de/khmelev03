@@ -11,10 +11,13 @@ It was reimplemented as part of a science reproducibility study alongside [14 ot
 If you use this reimplementation in your own research, please make sure to cite both of the above papers.
 
 ## Usage
+The source code can be compiled via:
 
-`khmelev03 -i <path-to-input-data> -o <output-path>`
+`g++ -o khemelev03 khmelev03.cc`
 
 To execute the software, install it and make sure all its dependencies are installed as well; then run the software using the following command:
+
+`khmelev03 -i <path-to-input-data> -o <output-path>`
 
 ## Input and Output Formats
 
